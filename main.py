@@ -16,4 +16,3 @@ result = "{:.2f}".format(final_bill)
 
 print(f"Each person should pay: ${result}")
 
-
